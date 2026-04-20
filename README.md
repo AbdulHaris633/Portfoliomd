@@ -12,7 +12,7 @@
 
 ## 👨‍💻 About Me
 
-Backend-focused Software Engineer with 1+ year of professional experience building scalable web applications and APIs. Specialized in Python ecosystems — Django, FastAPI, Flask — with a strong command of automation, data scraping, and distributed systems. Comfortable across the full stack and experienced in cloud deployments on AWS, GCP, and Azure.
+Backend-focused Software Engineer with 1+ year of professional experience building scalable web applications and APIs. Specialized in Python ecosystems Django, FastAPI, Flask with a strong command of automation, data scraping, and distributed systems. Comfortable across the full stack and experienced in cloud deployments on AWS, GCP, and Azure.
 
 ---
 
